@@ -1,0 +1,28 @@
+td{
+
+    color:white;
+}
+
+
+
+th{
+
+
+    color: white;
+}
+
+
+.form-control {
+    height: 34px;
+    background: white ;
+}
+
+.icart{
+	content: url('http://demos.codexworld.com/simple-php-shopping-cart-using-sessions/images/cart.png');
+	vertical-align: top;
+}
+.itrash{
+	content: url('http://demos.codexworld.com/simple-php-shopping-cart-using-sessions/images/remove.png');
+	vertical-align: top;
+    
+}
